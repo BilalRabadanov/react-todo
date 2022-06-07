@@ -1,0 +1,141 @@
+{
+  "lists": [
+    {
+      "id": 0.744813376442659,
+      "name": "wefasdf",
+      "colorId": 1
+    },
+    {
+      "id": 0.728313533864023,
+      "name": "вфыафыа",
+      "colorId": 6
+    },
+    {
+      "id": 0.34234976289037156,
+      "name": "asfasfasf",
+      "colorId": 1
+    },
+    {
+      "id": 0.5481133763370385,
+      "name": "фыафыа",
+      "colorId": 1
+    },
+    {
+      "id": 0.14807520662245577,
+      "name": "фыафыа",
+      "colorId": 1
+    },
+    {
+      "id": 0.12629943390189213,
+      "name": "фыачфсм",
+      "colorId": 7
+    },
+    {
+      "id": 0.3005332193513244,
+      "name": "asfasf",
+      "colorId": 7
+    },
+    {
+      "id": 0.4413136567982623,
+      "name": "asfasf",
+      "colorId": 3
+    },
+    {
+      "id": 0.18385104615718917,
+      "name": "asf",
+      "colorId": 7
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 0.744813376442659,
+      "text": "asfasf",
+      "completed": false,
+      "id": 22
+    },
+    {
+      "listId": 0.18385104615718917,
+      "text": "asfasf",
+      "completed": false,
+      "id": 23
+    },
+    {
+      "listId": 0.5481133763370385,
+      "text": "asfasf",
+      "completed": false,
+      "id": 24
+    },
+    {
+      "listId": 0.5481133763370385,
+      "text": "asfasf",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "listId": 0.5481133763370385,
+      "text": "a",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 0.5481133763370385,
+      "text": "",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "listId": 0.4413136567982623,
+      "text": "",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "listId": 0.4413136567982623,
+      "text": "asfasfasfxzvzxvfhsdhg",
+      "completed": false,
+      "id": 29
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
